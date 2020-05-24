@@ -1,7 +1,7 @@
 # Julia for Data Science
 Prepared by [@nassarhuda](https://github.com/nassarhuda). Last updated: May 2020. Julia version used: 1.4.0
 
-Accompanying are available at JuliaAcademy - insert link when ready XXX.
+Accompanying videos are available at JuliaAcademy - insert link when ready XXX.
 
 There are three main components in this tutorial.
 - Data (1 notebook)
@@ -47,7 +47,7 @@ Note that the methods section will show several kinds of plots too. But here, we
 
 --------
 ### This is what you should expect in every notebook
-<img src="format.png" width="400">
+<img src="data/format.png" width="400">
 
 -----
 #### And finally... Enjoy this tutorial!
