@@ -1,7 +1,7 @@
 # Julia for Data Science
 Prepared by [@nassarhuda](https://github.com/nassarhuda). Last updated: May 2020. Julia version used: 1.4.0
 
-Accompanying videos are available at JuliaAcademy - insert link when ready XXX.
+Accompanying videos are available at [JuliaAcademy](https://juliaacademy.com/p/julia-for-data-science).
 
 There are three main components in this tutorial.
 - Data (1 notebook)
