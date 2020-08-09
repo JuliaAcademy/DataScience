@@ -12,7 +12,7 @@ There are three main components in this tutorial.
 
 What we **don't** cover:
 - Setting up Julia.
-    - Here is a youtube video on how to Jupyter notebooks in Julia: https://youtube.com/watch?v=oyx8M1yoboY
+    - Here is a youtube video on how to use Jupyter notebooks in Julia: https://youtube.com/watch?v=oyx8M1yoboY
     - Here is a youtube video on how to install, setup your IDE, and get started with plotting in Julia: https://www.youtube.com/watch?v=eXk9PXzuKXE&t=890s
 - Intro to Julia.
     - If you have a fair programming experience in a different language or in Julia, I would say you can jump in to this tutorial, I try to keep all functions easy and simple to understand. Also, the first notebook covers a little bit of syntax.
