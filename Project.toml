@@ -50,3 +50,6 @@ UMAP = "c4f8c510-2410-5be4-91d7-4fbaeb39457e"
 VegaDatasets = "0ae4a718-28b7-58ec-9efb-cded64d6d5b4"
 VegaLite = "112f6efa-9a02-5b7d-90c0-432ed331239a"
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
+
+[compat]
+julia = "1.6"
