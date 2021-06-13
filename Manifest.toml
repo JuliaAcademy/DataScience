@@ -524,6 +524,12 @@ version = "0.2.1"
 deps = ["Random"]
 uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
+[[GLFW]]
+deps = ["GLFW_jll"]
+git-tree-sha1 = "35dbc482f0967d8dceaa7ce007d16f9064072166"
+uuid = "f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98"
+version = "3.4.1"
+
 [[GLFW_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Libglvnd_jll", "Pkg", "Xorg_libXcursor_jll", "Xorg_libXi_jll", "Xorg_libXinerama_jll", "Xorg_libXrandr_jll"]
 git-tree-sha1 = "dba1e8614e98949abfa60480b13653813d8f0157"
@@ -541,6 +547,12 @@ deps = ["DataFrames", "Distributed", "Distributions", "Printf", "Random", "Spars
 git-tree-sha1 = "7201288b024aa80f40e1e05e4ee800ff7b5ccfb2"
 uuid = "8d5ece8b-de18-5317-b113-243142960cc6"
 version = "0.6.3"
+
+[[GLMakie]]
+deps = ["ColorTypes", "Colors", "FileIO", "FixedPointNumbers", "FreeTypeAbstraction", "GLFW", "GeometryBasics", "LinearAlgebra", "Makie", "Markdown", "MeshIO", "ModernGL", "Observables", "Printf", "Serialization", "ShaderAbstractions", "StaticArrays"]
+git-tree-sha1 = "8a26d82f718f370be2c0411345c856f2f2d78752"
+uuid = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+version = "0.4.0"
 
 [[GLPK]]
 deps = ["BinaryProvider", "CEnum", "GLPK_jll", "Libdl", "MathOptInterface"]
@@ -1124,6 +1136,12 @@ git-tree-sha1 = "75a54abd10709c01f1b86b84ec225d26e840ed58"
 uuid = "e89f7d12-3494-54d1-8411-f7d8b9ae1f27"
 version = "0.5.0"
 
+[[MeshIO]]
+deps = ["ColorTypes", "FileIO", "GeometryBasics", "Printf"]
+git-tree-sha1 = "6d92d825d3834ecad23ffd5582dc67da7e6f020c"
+uuid = "7269a6da-0436-5bbc-96c2-40638cbb6118"
+version = "0.4.7"
+
 [[Missings]]
 deps = ["DataAPI"]
 git-tree-sha1 = "f8c673ccc215eb50fcadb285f522420e29e69e1c"
@@ -1138,6 +1156,12 @@ deps = ["ExprTools"]
 git-tree-sha1 = "916b850daad0d46b8c71f65f719c49957e9513ed"
 uuid = "78c3b35d-d492-501b-9361-3d52fe80e533"
 version = "0.7.1"
+
+[[ModernGL]]
+deps = ["Libdl"]
+git-tree-sha1 = "326957556e9cc9253615114c04bb0096a2a69bb8"
+uuid = "66fc600b-dfda-50eb-8b99-91cfa97b1301"
+version = "1.1.2"
 
 [[MosaicViews]]
 deps = ["MappedArrays", "OffsetArrays", "PaddedViews", "StackViews"]
@@ -1532,6 +1556,12 @@ deps = ["ConstructionBase", "Future", "MacroTools", "Requires"]
 git-tree-sha1 = "d5640fc570fb1b6c54512f0bd3853866bd298b3e"
 uuid = "efcf1570-3423-57d1-acb7-fd33fddbac46"
 version = "0.7.0"
+
+[[ShaderAbstractions]]
+deps = ["ColorTypes", "FixedPointNumbers", "GeometryBasics", "LinearAlgebra", "Observables", "StaticArrays", "StructArrays", "Tables"]
+git-tree-sha1 = "77d423b050216f34d3add8aec42d05c4b721bf19"
+uuid = "65257c39-d410-5151-9873-9b3e5be5013e"
+version = "0.2.6"
 
 [[SharedArrays]]
 deps = ["Distributed", "Mmap", "Random", "Serialization"]
