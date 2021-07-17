@@ -1,7 +1,7 @@
 [![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/JuliaAcademy/DataScience/)
 
 # Julia for Data Science
-Prepared by [@nassarhuda](https://github.com/nassarhuda). Last updated: May 2020. Julia version used: 1.4.0
+Prepared by [@nassarhuda](https://github.com/nassarhuda). Last updated: June 2021. Julia version used: 1.6.1
 
 Accompanying videos are available at [JuliaAcademy](https://juliaacademy.com/p/julia-for-data-science).
 
