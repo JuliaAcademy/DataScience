@@ -41,7 +41,7 @@ In this section, we hope to give you (the data scientist) all the tools you need
 And finally, we will go over a few visualizations that will hopefully reveal a few tips and tricks to generate good looking and informative visualizations.
 ### Visualization
 Note that the methods section will show several kinds of plots too. But here, we will cover plotting tools that we didn't get to in the Methods section. This includes
-- statiscs plots
+- statistics plots
 - managing the axes (double axes)
 - showing error bars
 - managing colors and color schemes
