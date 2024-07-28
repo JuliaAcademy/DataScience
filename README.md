@@ -1,4 +1,4 @@
-[![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/JuliaAcademy/DataScience/)
+[![nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/JuliaAcademy/DataScience/)
 
 # Julia for Data Science
 Prepared by [@nassarhuda](https://github.com/nassarhuda). Last updated: June 2021. Julia version used: 1.6.1
